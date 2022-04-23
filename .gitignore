@@ -109,7 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-env-web
+env-*
 
 # Spyder project settings
 .spyderproject
